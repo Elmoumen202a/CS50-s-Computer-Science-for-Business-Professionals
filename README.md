@@ -29,4 +29,4 @@ An introduction to programming using a language called Python. Learn how to read
 I finished this course on January 17, 2023.
 The picture below shows my certificate after completing all the assignments:
 
-![cs50p](img/CS50B)
+![CS50B](img/CS50B.png)
