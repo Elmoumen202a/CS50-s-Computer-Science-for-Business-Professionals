@@ -3,7 +3,6 @@ CS50-s-Computer-Science-for-Business-Professionals 😎
 
 -   [Course Link](https://cs50.harvard.edu/python/2022/)
 -   [My Certificate](https://certificates.cs50.io/b1b40aca-5873-48f4-b612-21cd620c7ef1.pdf?size=letter)
--   [Final Project](https://github.com/Elmoumen202a/Harvard-CS50-Python/tree/main/Final%20Project)
 ## What is it?
 
 This course is  for business professionals. This course takes a top-down approach, emphasizing mastery of high-level concepts and design decisions related thereto. Ultimately this course empowers students to make technological decisions even if not technologists themselves. Topics include cloud computing, networking, privacy, scalability, security, and more, with an emphasis on web and mobile technologies. Students emerge from this course with first-hand appreciation of how it all works and all the more confident in the factors that should guide their decision-making. This course is designed for managers, product managers, founders, and decision-makers more generally.
